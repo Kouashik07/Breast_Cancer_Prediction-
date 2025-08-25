@@ -38,9 +38,8 @@ The goal is to analyze tumor features such as **radius, texture, perimeter, area
 ## 📈 Results
 - Training Accuracy: ~95%  
 - Testing Accuracy: ~94%  
-- Confusion Matrix:
-  [[70  1]
- [2 41]]
+- Confusion Matrix:[[70  1]
+                    [2 41]]
 - Key features influencing prediction: **radius, perimeter, area, concave points**  
 - Model successfully classifies breast cancer tumors with high accuracy  
 
